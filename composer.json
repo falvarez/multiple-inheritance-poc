@@ -1,0 +1,15 @@
+{
+    "name": "bitban/multi-inheritance-poc",
+    "authors": [
+        {
+            "name": "Fede Álvarez",
+            "email": "falvarez@bitban.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bitban\\PoC\\": "src/"
+        }
+    }
+}
